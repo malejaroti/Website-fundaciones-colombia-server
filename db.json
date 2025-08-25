@@ -1,71 +1,99 @@
 {
-    "foundations": [
-        {
-            "id": "foundation-1",
-            "name": "Tierra Grata",
-            "city": "Cartagena",
-            "department": "Bolivar",
-            "causes": [
-                "Agua y Saneamiento Básico",
-                "Medio Ambiente",
-                "Reducción de la pobreza"
-            ],
-            "beneficiaries": [
-                "Poblaciones Indígenas",
-                "Poblaciones Rurales Campesinas",
-                "Niñez y Adolescencia"
-            ],
-            "website": "https://tierragrata.org/",
-            "instagram": "https://www.instagram.com/tierragratacol/",
-            "linkedIn": "https://www.linkedin.com/company/tierragratacol/",
-            "intervention-sites": [
-                "La Guajira",
-                "Cauca",
-                "Cesar"
-            ]
-        },
-        {
-            "id": "foundation-2",
-            "name": "Comuna Project",
-            "city": "Medellin",
-            "department": "Antioquia",
-            "causes": [
-                "Educación",
-                "Salud mental",
-                "Reducción de pobreza"
-            ],
-            "beneficiaries": [
-                "Niñez y Adolescencia",
-                "Adultos mayores",
-                "Población migrante",
-            ],
-            "website": "https://comunaproject.org/",
-            "instagram": "https://www.instagram.com/comuna_project/",
-            "instagram-secondary": "https://www.instagram.com/capsi_comunaproject/",
-            "linkedIn": "https://www.linkedin.com/company/fundacion-comuna-project/"
-        }
-    ],
-    "interventions": [
-        {
-            "id": "intervention-1",
-            "foundationId": "foundation-1",
-            "description": "Durante 2023, se lanzó un proyecto para llevar servicios básicos a 15 escuelas rurales, beneficiando a 3000 niños y niñas",
-            "intervention-date-year": "2023",
-            "intervention-date-month": "",
-            "intervention-date-day": ""
-        },
-        {
-            "id": "intervention-1",
-            "description": "Luces solares y agua tratada en Roca del Cristo, La Boquilla, Garciamana y La Cañada.",
-            "foundationId": "foundation-1"
-        },
-        {
-            "id": "intervention-12",
-            "description": "Celebracion del dia del nino con pista jabonos en el barrio Independencias",
-            "foundationId": "foundation-21",
-            "intervention-date-year": "2025",
-            "intervention-date-month": "4",
-            "intervention-date-day": "30"
-        },
-    ]
+  "foundations": [
+    {
+      "id": "foundation-1",
+      "name": "Tierra Grata",
+      "city": "Cartagena",
+      "description": "Fundación que lleva energía solar, agua potable y saneamiento básico a comunidades rurales de Colombia, promoviendo acceso digno a servicios esenciales.",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756113053/Tierra-grata-logo_njpprf.jpg",
+      "department": "Bolivar",
+      "causes": [
+        "Agua y Saneamiento Básico",
+        "Medio Ambiente",
+        "Reducción de Pobreza"
+      ],
+      "beneficiaries": [
+        "Poblaciones Indígenas",
+        "Poblaciones Rurales Campesinas",
+        "Niñez y Adolescencia"
+      ],
+      "website": "https://tierragrata.org/",
+      "instagram": "https://www.instagram.com/tierragratacol/",
+      "linkedIn": "https://www.linkedin.com/company/tierragratacol/",
+      "intervention-sites": [
+        "La Guajira",
+        "Cauca",
+        "Cesar"
+      ]
+    },
+    {
+      "id": "foundation-2",
+      "name": "Comuna Project",
+      "city": "Medellin",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756113053/Comuna-Project-logo_mfqpcf.jpg",
+      "department": "Antioquia",
+      "causes": [
+        "Educación",
+        "Salud mental",
+        "Reducción de Pobreza"
+      ],
+      "beneficiaries": [
+        "Niñez y Adolescencia",
+        "Adultos mayores",
+        "Población migrante"
+      ],
+      "website": "https://comunaproject.org/",
+      "instagram": "https://www.instagram.com/comuna_project/",
+      "instagram-secondary": "https://www.instagram.com/capsi_comunaproject/",
+      "linkedIn": "https://www.linkedin.com/company/fundacion-comuna-project/"
+    },
+    {
+      "id": "foundation-3",
+      "name": "Fundacion Pies Descalzos",
+      "city": "Barranquilla",
+      "department": "Atlántico",
+      "causes": [
+        "Educación",
+        "Reducción de Pobreza"
+      ],
+      "beneficiaries": [
+        "Niñez y Adolescencia"
+      ],
+      "website": "https://www.fundacionpiesdescalzos.com/",
+      "instagram": "https://www.instagram.com/fpiesdescalzos/",
+      "linkedIn": "https://www.linkedin.com/company/fpiesdescalzos",
+      "youtube": "https://www.youtube.com/c/Fundaci%C3%B3nPiesDescalzosColombia"
+    }
+  ],
+  "interventions": [
+    {
+      "id": "intervention-1",
+      "foundationId": "foundation-1",
+      "description": "Durante 2023, se lanzó un proyecto para llevar servicios básicos a 15 escuelas rurales, beneficiando a 3000 niños y niñas",
+      "intervention-date-year": "2023",
+      "intervention-date-month": "",
+      "intervention-date-day": ""
+    },
+    {
+      "id": "intervention-1",
+      "description": "Luces solares y agua tratada en Roca del Cristo, La Boquilla, Garciamana y La Cañada.",
+      "foundationId": "foundation-1"
+    },
+    {
+      "id": "intervention-12",
+      "description": "Celebracion del dia del nino con pista jabonos en el barrio Independencias",
+      "foundationId": "foundation-21",
+      "intervention-date-year": "2025",
+      "intervention-date-month": "4",
+      "intervention-date-day": "30"
+    },
+    {
+      "id": "intervention-comuna-project-2",
+      "description": "Les dimos a los ninos una clase de horticultura y sembramos plantas en el jardin comunal del barrio",
+      "foundationId": "foundation-2",
+      "intervention-date-year": "2025",
+      "intervention-date-month": "5",
+      "intervention-date-day": "2"
+    }
+  ]
 }
