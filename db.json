@@ -6,7 +6,7 @@
       "city": "Cartagena",
       "description": "Fundación que lleva energía solar, agua potable y saneamiento básico a comunidades rurales de Colombia, promoviendo acceso digno a servicios esenciales.",
       "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756113053/Tierra-grata-logo_njpprf.jpg",
-      "department": "Bolivar",
+      "department": "Bolívar",
       "causes": [
         "Agua y Saneamiento Básico",
         "Medio Ambiente",
@@ -30,6 +30,7 @@
       "id": "foundation-2",
       "name": "Comuna Project",
       "city": "Medellin",
+      "description": "Fundación que fortalece comunidades vulnerables a través de educación, arte y programas de empoderamiento juvenil en la Comuna 13, y la Comuna 3 en Medellin.",
       "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756113053/Comuna-Project-logo_mfqpcf.jpg",
       "department": "Antioquia",
       "causes": [
