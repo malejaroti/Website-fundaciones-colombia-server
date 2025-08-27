@@ -76,12 +76,12 @@
       "intervention-date-day": ""
     },
     {
-      "id": "intervention-1",
+      "id": "intervention-2",
       "description": "Luces solares y agua tratada en Roca del Cristo, La Boquilla, Garciamana y La Cañada.",
       "foundationId": "foundation-1"
     },
     {
-      "id": "intervention-12",
+      "id": "intervention-3",
       "description": "Celebracion del dia del nino con pista jabonos en el barrio Independencias",
       "foundationId": "foundation-21",
       "intervention-date-year": "2025",
@@ -89,7 +89,7 @@
       "intervention-date-day": "30"
     },
     {
-      "id": "intervention-comuna-project-2",
+      "id": "intervention-4",
       "description": "Les dimos a los ninos una clase de horticultura y sembramos plantas en el jardin comunal del barrio",
       "foundationId": "foundation-2",
       "intervention-date-year": "2025",
