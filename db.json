@@ -29,7 +29,7 @@
     {
       "id": "foundation-2",
       "name": "Comuna Project",
-      "city": "Medellin",
+      "city": "Medellín",
       "description": "Fundación que fortalece comunidades vulnerables a través de educación, arte y programas de empoderamiento juvenil en la Comuna 13, y la Comuna 3 en Medellin.",
       "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756113053/Comuna-Project-logo_mfqpcf.jpg",
       "department": "Antioquia",
@@ -63,7 +63,9 @@
       "website": "https://www.fundacionpiesdescalzos.com/",
       "instagram": "https://www.instagram.com/fpiesdescalzos/",
       "linkedIn": "https://www.linkedin.com/company/fpiesdescalzos",
-      "youtube": "https://www.youtube.com/c/Fundaci%C3%B3nPiesDescalzosColombia"
+      "youtube": "https://www.youtube.com/c/Fundaci%C3%B3nPiesDescalzosColombia",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756299173/fundacion-pies-descalzos-logo_p62rmz.svg",
+      "description": "Fundacion de Shakira para ayudar a ninos y ninas de Colombia"
     }
   ],
   "interventions": [
