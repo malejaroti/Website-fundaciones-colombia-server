@@ -66,6 +66,318 @@
       "youtube": "https://www.youtube.com/c/Fundaci%C3%B3nPiesDescalzosColombia",
       "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756299173/fundacion-pies-descalzos-logo_p62rmz.svg",
       "description": "Fundacion de Shakira para ayudar a ninos y ninas de Colombia"
+    },  
+    {
+      "id": "foundation-mi-sangre",
+      "name": "Fundación Mi Sangre",
+      "city": "Medellín",
+      "department": "Antioquia",
+      "description": "Creada por el artista Juanes, promueve la construcción de paz con jóvenes a través del arte, la educación y la reconciliación comunitaria.",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756461474/logo-fundacion-mi-sangre-azul_wntp4e.jpg",
+      "website": "https://fundacionmisangre.org/",
+      "instagram": "https://www.instagram.com/fmisangre/",
+      "linkedIn": "https://www.linkedin.com/company/fundacion-mi-sangre/",
+      "facebook": "https://www.facebook.com/MiSangreFundacion/",
+      "intervention-sites": ["Antioquia", "Bolívar", "Meta"],
+      "causes": [
+        "Construcción de Paz y Reconciliación",
+        "Educación"
+      ],
+      "beneficiaries": [
+        "Niñez y Adolescencia",
+        "Comunidades afectadas por violencia"
+      ],
+      "interventions": [
+        "Talleres de arte y música para la paz",
+        "Escuela de liderazgo juvenil",
+        "Procesos de mediación y reconciliación comunitaria",
+        "Formación en habilidades socioemocionales",
+        "Incidencia y participación juvenil"
+      ],
+      "corporate": false
+    },
+    {
+      "id": "foundation-natura",
+      "name": "Fundación Natura",
+      "city": "Bogotá",
+      "department": "Cundinamarca",
+      "description": "Trabaja en la conservación de la biodiversidad, restauración ecológica y mitigación del cambio climático en Colombia.",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756461816/logo-fundacion-natura_staxst.svg",
+      "website": "https://natura.org.co/",
+      "instagram": "https://www.instagram.com/fundacion_natura_colombia/",
+      "linkedIn": "https://www.linkedin.com/company/fundacion-natura/",
+      "facebook": "https://www.facebook.com/fundacionnaturacolombia/",
+      "intervention-sites": ["Amazonas", "Meta", "Cundinamarca", "Chocó"],
+      "causes": [
+        "Ciencia y Divulgación",
+        "Desarrollo Sostenible (ODS)",
+        "Medio Ambiente"
+      ],
+      "beneficiaries": [
+        "Comunidades rurales",
+        "Poblaciones indígenas",
+        "Fauna y flora"
+      ],
+      "interventions": [
+        "Restauración ecológica y reforestación",
+        "Conservación de bosques y cuencas",
+        "Investigación científica y monitoreo de biodiversidad",
+        "Educación ambiental comunitaria",
+        "Acuerdos de conservación y negocios verdes"
+      ],
+      "corporate": false
+    },
+    {
+      "id": "foundation-luker",
+      "name": "Fundación Luker",
+      "city": "Manizales",
+      "department": "Caldas",
+      "description": "Promueve la educación innovadora y el emprendimiento como motores de transformación social y desarrollo económico.",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756461721/logo-fundacion-luker_amins0.png",
+      "website": "https://fundacionluker.org.co/",
+      "instagram": "https://www.instagram.com/fundacionluker/",
+      "linkedIn": "https://www.linkedin.com/company/fundaci%C3%B3n-luker/",
+      "facebook": "https://www.facebook.com/fundacionluker/",
+      "intervention-sites": ["Caldas", "Risaralda", "Quindío"],
+      "causes": [
+        "Desarrollo Sostenible (ODS)",
+        "Educación",
+        "Empleo y Emprendimiento"
+      ],
+      "beneficiaries": [
+        "Niñez y Adolescencia",
+        "Docentes",
+        "Emprendedores locales"
+      ],
+      "interventions": [
+        "Formación docente y acompañamiento pedagógico",
+        "Modelos educativos innovadores (STEAM/CT)",
+        "Laboratorios de emprendimiento",
+        "Alianzas escuela–empresa",
+        "Programas de transición a educación superior"
+      ],
+      "corporate": true
+    },
+    {
+      "id": "foundation-gente-ecopetrol",
+      "name": "Fundación Gente Ecopetrol",
+      "city": "Bogotá",
+      "department": "Cundinamarca",
+      "description": "Iniciativa social de Ecopetrol que apoya proyectos de educación, cultura y desarrollo comunitario en zonas de influencia petrolera.",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756461474/logo-fundacion-gente-ecopetrol_w9scta.png",
+      "website": "https://fundaciongenteecopetrol.org/",
+      "instagram": "https://www.instagram.com/fundaciongenteecopetrol/",
+      "linkedIn": "https://www.linkedin.com/company/fundacion-gente-ecopetrol/",
+      "facebook": "https://www.facebook.com/FundacionGenteEcopetrol/",
+      "intervention-sites": ["Santander", "Meta", "Casanare", "Arauca"],
+      "causes": [
+        "Cultura y Arte",
+        "Deporte y Recreación",
+        "Educación"
+      ],
+      "beneficiaries": [
+        "Comunidades rurales",
+        "Niñez y Adolescencia",
+        "Poblaciones cercanas a operaciones petroleras"
+      ],
+      "interventions": [
+        "Becas y fortalecimiento educativo",
+        "Escuelas deportivas y culturales",
+        "Infraestructura y espacios comunitarios",
+        "Formación para el trabajo y empleabilidad",
+        "Voluntariado corporativo"
+      ],
+      "corporate": true
+    },
+    {
+      "id": "foundation-corona",
+      "name": "Fundación Corona",
+      "city": "Bogotá",
+      "department": "Cundinamarca",
+      "description": "Con más de 50 años de trayectoria, impulsa proyectos en educación, salud y equidad social para promover el desarrollo sostenible.",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756461473/logo-fundacion-corona_g5qlg4.jpg",
+      "website": "https://www.fundacioncorona.org/",
+      "instagram": "https://www.instagram.com/fundacioncorona/",
+      "linkedIn": "https://www.linkedin.com/company/fundacion-corona/",
+      "facebook": "https://www.facebook.com/FundacionCorona/",
+      "intervention-sites": ["Cundinamarca", "Antioquia", "Atlántico"],
+      "causes": [
+        "Desarrollo Sostenible (ODS)",
+        "Educación",
+        "Salud"
+      ],
+      "beneficiaries": [
+        "Docentes",
+        "Niñez y Adolescencia",
+        "Familias vulnerables"
+      ],
+      "interventions": [
+        "Educación para el empleo y habilidades del siglo XXI",
+        "Fortalecimiento institucional y articulación público–privada",
+        "Gestión del conocimiento e innovación social",
+        "Incidencia en política pública",
+        "Proyectos de salud pública"
+      ],
+      "corporate": true
+    },
+    {
+      "id": "foundation-malpelo",
+      "name": "Fundación Malpelo",
+      "city": "Cali",
+      "department": "Valle del Cauca",
+      "description": "Protege el ecosistema marino del Santuario de Fauna y Flora Malpelo, con énfasis en tiburones y especies en peligro.",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756461474/logo-fundacion-malpelo_fcevvg.png",
+      "website": "https://fundacionmalpelo.org/",
+      "instagram": "https://www.instagram.com/fundacionmalpelo/",
+      "linkedIn": "https://www.linkedin.com/company/fundacion-malpelo/",
+      "facebook": "https://www.facebook.com/fundacionmalpelo/",
+      "intervention-sites": ["Valle del Cauca", "Nariño", "Pacífico colombiano"],
+      "causes": [
+        "Ciencia y Divulgación",
+        "Medio Ambiente",
+        "Protección Animal"
+      ],
+      "beneficiaries": [
+        "Fauna marina",
+        "Comunidades costeras",
+        "Investigadores"
+      ],
+      "interventions": [
+        "Investigación y monitoreo de tiburones y megafauna",
+        "Expediciones científicas y marcaje satelital",
+        "Educación ambiental marina",
+        "Vigilancia y lucha contra pesca ilegal",
+        "Restauración de ecosistemas marinos"
+      ],
+      "corporate": false
+    },
+    {
+      "id": "foundation-catalina-munoz",
+      "name": "Fundación Catalina Muñoz",
+      "city": "Bogotá",
+      "department": "Cundinamarca",
+      "description": "Construye viviendas dignas y espacios comunitarios para familias vulnerables, fortaleciendo el tejido social.",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756461473/logo-fundacion-catalina-munoz_ynmwqg.png",
+      "website": "https://fundacioncatalinamunoz.org/",
+      "instagram": "https://www.instagram.com/fundacioncatalinamunoz/",
+      "linkedIn": "https://www.linkedin.com/company/fundacion-catalina-munoz/",
+      "facebook": "https://www.facebook.com/FundacionCatalinaMunoz/",
+      "intervention-sites": ["Cundinamarca", "Boyacá", "Tolima"],
+      "causes": [
+        "Reducción de Pobreza",
+        "Vivienda y Hábitat Digno",
+        "Voluntariado y Servicio Comunitario"
+      ],
+      "beneficiaries": [
+        "Familias en condición de pobreza",
+        "Comunidades rurales",
+        "Voluntarios"
+      ],
+      "interventions": [
+        "Construcción y mejoramiento de vivienda",
+        "Obras de infraestructura comunitaria",
+        "Jornadas de voluntariado masivo",
+        "Gestión de donaciones y materiales",
+        "Acompañamiento social a familias"
+      ],
+      "corporate": false
+    },
+    {
+      "id": "foundation-fana",
+      "name": "Fundación FANA",
+      "city": "Bogotá",
+      "department": "Cundinamarca",
+      "description": "Desde 1972 brinda protección, atención integral y procesos de adopción a niños, niñas y adolescentes en situación de vulnerabilidad.",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756461474/logo-fundacion-fana_zjshhs.png",
+      "website": "https://www.fundacionfana.org.co/",
+      "instagram": "https://www.instagram.com/fundacionfana/",
+      "linkedIn": "https://www.linkedin.com/company/fundacion-fana/",
+      "facebook": "https://www.facebook.com/FundacionFana/",
+      "intervention-sites": ["Cundinamarca"],
+      "causes": [
+        "Derechos Humanos",
+        "Educación",
+        "Salud",
+        "Salud Mental"
+      ],
+      "beneficiaries": [
+        "Niñez y Adolescencia",
+        "Familias adoptivas"
+      ],
+      "interventions": [
+        "Atención integral (salud, nutrición, psicología)",
+        "Restablecimiento de derechos",
+        "Procesos de adopción",
+        "Acompañamiento y formación a familias",
+        "Prevención y educación en cuidados"
+      ],
+      "corporate": false
+    },
+    {
+      "id": "foundation-corprjuanfe",
+      "name": "Fundación Juanfe",
+      "city": "Cartagena",
+      "department": "Bolívar",
+      "description": "Fortalece a madres adolescentes y sus bebés mediante salud, educación y empleabilidad para romper ciclos de pobreza.",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756461474/logo-fundacion-juanfe_ra7dou.jpg",
+      "website": "https://juanfe.org/",
+      "instagram": "https://www.instagram.com/juanfe.org/",
+      "linkedIn": "https://www.linkedin.com/company/juanfe-foundation/",
+      "facebook": "https://www.facebook.com/FundacionJuanfe/",
+      "intervention-sites": ["Bolívar", "Antioquia"],
+      "causes": [
+        "Educación",
+        "Empleo y Emprendimiento",
+        "Reducción de Pobreza",
+        "Salud",
+        "Salud Mental",
+        "Seguridad Alimentaria y Nutrición"
+      ],
+      "beneficiaries": [
+        "Madres adolescentes",
+        "Primera infancia"
+      ],
+      "interventions": [
+        "Atención en salud materno-infantil",
+        "Educación técnica y vida productiva",
+        "Inserción laboral y emprendimiento",
+        "Acompañamiento psicosocial",
+        "Apoyo nutricional a primera infancia"
+      ],
+      "corporate": false
+    },
+
+    {
+      "id": "foundation-tiempo-de-juego",
+      "name": "Fundación Tiempo de Juego",
+      "city": "Soacha",
+      "department": "Cundinamarca",
+      "description": "Usa el deporte, el arte y el juego como herramientas para formar líderes y transformar comunidades vulnerables en Colombia.",
+      "logo": "https://res.cloudinary.com/dvrfurzie/image/upload/v1756456656/logo-fundacion-tiempo-de-juego_oa9wgd.png",
+      "website": "https://tiempodejuego.org/",
+      "instagram": "https://www.instagram.com/tiempodejuego/",
+      "linkedIn": "https://www.linkedin.com/company/tiempo-de-juego/",
+      "facebook": "https://www.facebook.com/tiempodejuego.org/",
+      "intervention-sites": ["Cundinamarca", "Magdalena", "Meta"],
+
+      "causes": [
+        "Cultura y Arte",
+        "Deporte y Recreación",
+        "Educación"
+      ],
+      "beneficiaries": [
+        "Niñez y Adolescencia",
+        "Comunidades urbanas vulnerables"
+      ],
+      "interventions": [
+        "Actividades de tiempo libre",
+        "Escuela de liderazgo",
+        "Impacto en territorios de Colombia",
+        "Inclusión de jóvenes – Responsabilidad penal y protección",
+        "Servicio de investigación y evaluación",
+        "Laboratorios de género"
+      ],
+      "corporate": false
     }
   ],
   "interventions": [
